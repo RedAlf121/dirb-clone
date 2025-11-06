@@ -1,7 +1,7 @@
-🛠️ Mi Primera Herramienta de Fuzzing
+# 🛠️ Mi Primera Herramienta de Fuzzing
 
 Este script es una implementación básica inspirada en la herramienta Dirb de Kali Linux. Su propósito es descubrir rutas ocultas en un sitio web mediante fuerza bruta.
-🤔 ¿Qué es el Fuzzing?
+## 🤔 ¿Qué es el Fuzzing?
 
 El fuzzing es una técnica utilizada en seguridad informática para descubrir recursos o vulnerabilidades ocultas en aplicaciones web. Consiste en:
 
@@ -23,13 +23,13 @@ Si una ruta devuelve un código de estado 200 OK, significa que esa URL existe y
  Node.js 18 o superior (idealmente 20+ para soporte nativo de fetch)
  Un archivo common.txt con una palabra por línea (ej: admin, login, dashboard)
 
-▶️ Ejecución
+## ▶️ Ejecución
 ```
 node dirb.js
 ```
 
 Luego, ingresa la URL objetivo cuando se te solicite.
-📌 Ejemplo de uso
+## 📌 Ejemplo de uso
 Inserta la URL: [https://jsonplaceholder.com](https://jsonplaceholder.typicode.com/)
 Hackeando [https://jsonplaceholder.com!](https://jsonplaceholder.typicode.com/)!
 Encontrado: https://jsonplaceholder.typicode.com/albums [200]
