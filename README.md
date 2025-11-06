@@ -31,11 +31,16 @@ node dirb.js
 Luego, ingresa la URL objetivo cuando se te solicite.
 ## 📌 Ejemplo de uso
 Inserta la URL: [https://jsonplaceholder.com](https://jsonplaceholder.typicode.com/)
+
 Hackeando [https://jsonplaceholder.com!](https://jsonplaceholder.typicode.com/)!
-Encontrado: https://jsonplaceholder.typicode.com/albums [200]
-Encontrado: https://jsonplaceholder.typicode.com/photos [200]
-Encontrado: https://jsonplaceholder.typicode.com/todos [200]
-Encontrado: https://jsonplaceholder.typicode.com/users [200]
+
+* Encontrado: https://jsonplaceholder.typicode.com/albums [200]
+  
+* Encontrado: https://jsonplaceholder.typicode.com/photos [200]
+  
+* Encontrado: https://jsonplaceholder.typicode.com/todos [200]
+  
+* Encontrado: https://jsonplaceholder.typicode.com/users [200]
 
 
 
