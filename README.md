@@ -41,7 +41,3 @@ Hackeando [https://jsonplaceholder.com!](https://jsonplaceholder.typicode.com/)!
 * Encontrado: https://jsonplaceholder.typicode.com/todos [200]
   
 * Encontrado: https://jsonplaceholder.typicode.com/users [200]
-
-
-
-¿Quieres que también te ayude a agregar una sección de licencia, contribuciones o mejoras futuras? Puedo ayudarte a dejarlo listo para GitHub.
